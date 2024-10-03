@@ -68,3 +68,8 @@ footer {
 .fondo_items{
   background-color: rgb(235, 233, 233);
 }
+
+.img-custom {
+  max-width: 200px;
+  max-height: 200px;
+}
